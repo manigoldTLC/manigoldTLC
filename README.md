@@ -1,4 +1,4 @@
-## Hi 👋 my name is Gabriel Xavier, I'm a developer and graduating in Computer Engineering at the University of Brasília.
+## Oi 👋 me chamo Gabriel Xavier, sou desenvolvedor e graduando em Engenharia de Computação pela Unversidade de Brasília.
 
 <div align="center">
   <a href="https://github.com/manigoldTLC">
