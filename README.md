@@ -28,6 +28,8 @@
 
 <br></br>
 ### Meu último projeto:
-<img alt="Meu útlimo projeto" width="100%" height="auto" src="https://media.discordapp.net/attachments/847271407124611112/912506576278024263/mockups.png?width=1415&height=629" />
+<img alt="Meu útlimo projeto" width="100%" height="auto" src="https://media.discordapp.net/attachments/847271407124611112/912506576278024263/mockups.png?width=1415&height=600" />
+
+##
   
 ![Snake animation](https://github.com/manigoldTLC/manigoldTLC/blob/output/github-contribution-grid-snake.svg)
