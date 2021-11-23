@@ -26,4 +26,8 @@
   <a href="https://www.instagram.com/gabriel_.xavierrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<br></br>
+### Meu último projeto:
+<img alt="Meu útlimo projeto" width="100%" height="auto" src="https://media.discordapp.net/attachments/847271407124611112/912506576278024263/mockups.png?width=1415&height=629" />
+  
 ![Snake animation](https://github.com/manigoldTLC/manigoldTLC/blob/output/github-contribution-grid-snake.svg)
