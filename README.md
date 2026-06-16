@@ -16,7 +16,6 @@
   <img align="center" alt="Gabriel-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px; !important" src="https://media.discordapp.net/attachments/847271407124611112/905647020658819102/me_3D.jpg?width=638&height=630">
 </div>
   
 ##
@@ -25,10 +24,6 @@
   <a href="https://www.linkedin.com/in/gabriel-xavier-cardoso-04080217b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/gabriel_.xavierrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<br></br>
-### Meu último projeto:
-<img alt="Meu útlimo projeto" width="100%" height="auto" src="https://media.discordapp.net/attachments/847271407124611112/912506576278024263/mockups.png?width=1415&height=600" />
 
 ##
   
