@@ -1,4 +1,4 @@
-## Oi 👋 me chamo Gabriel Xavier, sou desenvolvedor e graduando em Engenharia de Computação pela Universidade de Brasília.
+## Oi 👋 me chamo Gabriel Xavier, sou desenvolvedor Liferay e React.
 
 <div align="center">
   <a href="https://github.com/manigoldTLC">
